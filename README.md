@@ -11,7 +11,8 @@ Master of Management Analytics at Queen's University, Smith School of Business.
 SQL · Python · Tableau · Excel
 
 ## 📂 Featured Projects
-- **[Project name](link)** – one-line description of the business problem and result
+-    ## 📂 Featured Projects
+   - **[Toronto Airbnb Pricing Analysis](https://github.com/HanselT413/Toronto-airbnb-pricing)** – Regression model (R² 0.73) on 15,000 listings; Chow test showed licensed and unlicensed listings are two distinct pricing markets
 - **[Project name](link)** – one-line description
 
 ## 🎓 Education & Certifications
