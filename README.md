@@ -23,4 +23,4 @@ SQL · Python · Tableau · Excel
 English · Mandarin Chinese
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/hanseltung413/)
+[LinkedIn](https://www.linkedin.com/in/hanseltung413/) · [tongchunhao@gmail.com](mailto:tongchunhao@gmail.com)
