@@ -23,4 +23,4 @@ SQL · Python · Tableau · Excel
 English · Mandarin Chinese
 
 ## 📫 Connect
-[LinkedIn](your-linkedin-url) · your.email@example.com
+[LinkedIn](https://www.linkedin.com/in/hanseltung413/)
