@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Hansel Tung 👋
 
-<!--
-**HanselT413/HanselT413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analytics professional with 4 years of banking experience at RBC, BMO and TD, now pursuing a
+Master of Management Analytics at Queen's University, Smith School of Business.
 
-Here are some ideas to get you started:
+## 🔍 What I do
+- Turn customer and financial data into clear business insights
+- Build dashboards and reports that help teams make decisions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools
+SQL · Python · Tableau · Excel
+
+## 📂 Featured Projects
+- **[Project name](link)** – one-line description of the business problem and result
+- **[Project name](link)** – one-line description
+
+## 🎓 Education & Certifications
+- Master of Management Analytics – Queen's University, Smith School of Business (2027)
+- Data Science Bootcamp – BrainStation (2026)
+- B.A. Psychology, Minor in Business – University of Prince Edward Island
+- IFIC, FP1, FP2, Investment and Retirement Planning
+
+## 🌐 Languages
+English · Mandarin Chinese
+
+## 📫 Connect
+[LinkedIn](your-linkedin-url) · your.email@example.com
